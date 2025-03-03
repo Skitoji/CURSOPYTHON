@@ -30,6 +30,3 @@ while True:
         break
 
 print("Fin del programa")
-
-#Hola miamor, te amo mucho, espero que te guste el programa
-#Te amo mucho, besos
